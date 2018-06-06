@@ -1,1 +1,1 @@
-# ConsentSDKAdmob
+# ConsentSDKForGDPR
