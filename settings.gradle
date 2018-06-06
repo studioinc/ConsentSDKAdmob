@@ -1,1 +1,1 @@
-include ':app', ':ConsentGDPRLib'
+include ':app', ':ConsentSDK'
